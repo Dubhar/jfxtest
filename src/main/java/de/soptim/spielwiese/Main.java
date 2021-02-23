@@ -1,9 +1,9 @@
 package de.soptim.spielwiese;
 
+import de.soptim.spielwiese.fx.GUI;
+
 public class Main {
     public static void main(String[] args) {
-        var lombokTest = new Lombok("Hello World!");
-
-        System.out.println(lombokTest.getMyString());
+        GUI.main(args);
     }
 }
