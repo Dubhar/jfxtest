@@ -2,4 +2,5 @@
 
 * docker build --tag jfxtest:1.0 .
 * docker run -it --name jfxtest --mount type=bind,source="$(pwd)"/target,target=/usr/src/jfxtest/target jfxtest:1.0 mvn package
+* docker rm jfxtest
 * java -jar .\target\jfxtest-1.0-SNAPSHOT-jar-with-dependencies.jar
