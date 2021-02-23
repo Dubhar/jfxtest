@@ -5,15 +5,15 @@
     <modelVersion>4.0.0</modelVersion>
 
     <groupId>groupId</groupId>
-    <artifactId>Spielwiese</artifactId>
-    <version>1.0-SNAPSHOT</version>
+    <artifactId>jfxtest</artifactId>
+    <version>1.0</version>
 
     <properties>
         <project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
         <maven.compiler.source>11</maven.compiler.source>
         <maven.compiler.target>11</maven.compiler.target>
         <maven.compiler.release>11</maven.compiler.release>
-        <main.class>de.soptim.spielwiese.Main</main.class>
+        <main.class>de.dubhar.jfxtest.Main</main.class>
         <javafx.version>11</javafx.version>
     </properties>
 

@@ -1,4 +1,4 @@
-package de.soptim.spielwiese.fx;
+package de.dubhar.jfxtest.fx;
 
 import javafx.application.Application;
 import javafx.event.ActionEvent;

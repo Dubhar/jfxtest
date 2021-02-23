@@ -1,4 +1,4 @@
-package de.soptim.spielwiese;
+package de.dubhar.jfxtest;
 
 import lombok.Getter;
 import lombok.experimental.UtilityClass;

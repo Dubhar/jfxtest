@@ -1,6 +1,6 @@
-package de.soptim.spielwiese;
+package de.dubhar.jfxtest;
 
-import de.soptim.spielwiese.fx.GUI;
+import de.dubhar.jfxtest.fx.GUI;
 
 public class Main {
     public static void main(String[] args) {
